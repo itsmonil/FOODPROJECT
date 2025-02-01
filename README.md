@@ -37,5 +37,5 @@ This project is licensed under the MIT License.
 
 ## 📬 Contact
 For any queries or suggestions, reach out via:
-- GitHub: itsmonil(https://github.com/your-username)
+- GitHub: https://github.com/itsmonil
 - Email: monilchouhan8844@gmail.com
